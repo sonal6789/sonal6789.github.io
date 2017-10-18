@@ -1,5 +1,10 @@
 <img src="https://sonal6789.github.io/images/profilepic.jpeg" width="150" height="150" align= "centre"/> 
 
+![Image of LinkedIn](https://octodex.github.com/images/social-linkedin.png)
+![Image of Facebook](https://octodex.github.com/images/social-facebook.png)
+![Image of Github](https://octodex.github.com/images/social-github.png)
+![Image of Twitter](https://octodex.github.com/images/social-twitter.png)
+
 # ABOUT ME
 I'd like to describe myself as a DevOps evangelist, a Cloud enthusiast, a project management fervid & a business ideas generator. I'm a highly motivated and passionate tech-savvy professional, looking for opportunities to learn and grow, and to be part of an organization that helps me fulfil my career ambitions.
 
