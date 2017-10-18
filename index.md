@@ -1,5 +1,8 @@
+<img src="https://sonal6789.github.io/images/profilepic.jpeg" width="150" height="150" align= "left"/> 
+
 # ABOUT ME
 I'd like to describe myself as a DevOps evangelist, a Cloud enthusiast, a project management fervid & a business ideas generator. I'm a highly motivated and passionate tech-savvy professional, looking for opportunities to learn and grow, and to be part of an organization that helps me fulfil my career ambitions.
+
 
 # MY BACKGROUND
 A recent graduate from University of Florida with Master's degree in Information systems and operations management (major in Business Intelligence). I have total 3 years of software engineering experience, specialising in software Build and Release management. 
