@@ -1,9 +1,8 @@
-<img src="https://sonal6789.github.io/images/profilepic.jpeg" width="150" height="150" align= "centre"/> 
+<img src="https://sonal6789.github.io/images/profilepic.jpeg" width="200" height="200" align= "centre"/> 
 
-![Image of LinkedIn](https://octodex.github.com/images/social-linkedin.png)
-![Image of Facebook](https://octodex.github.com/images/social-facebook.png)
-![Image of Github](https://octodex.github.com/images/social-github.png)
-![Image of Twitter](https://octodex.github.com/images/social-twitter.png)
+<img src="https://sonal6789.github.io/images/social-linkedin.png" width="50" height="50" align="left" href="https://www.linkedin.com/in/sonal-chaudhary/" /> <img src="https://sonal6789.github.io/images/social-facebook.png" width="50" height="50" align="left" href="https://www.facebook.com/sonal6789" /> <img src="https://sonal6789.github.io/images/social-twitter.png" width="50" height="50" align="left" href="https://twitter.com/sonal_6789" />  <img src="https://sonal6789.github.io/images/social-github.png" width="50" height="50" align="left" href="https://github.com/sonal6789/" /> 
+
+<br>
 
 # ABOUT ME
 I'd like to describe myself as a DevOps evangelist, a Cloud enthusiast, a project management fervid & a business ideas generator. I'm a highly motivated and passionate tech-savvy professional, looking for opportunities to learn and grow, and to be part of an organization that helps me fulfil my career ambitions.
