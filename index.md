@@ -42,12 +42,26 @@ Project management experience with a contribution in software coding, testing, d
 
 # PROJECTS & RESEARCH WORK
 
-**Information Security and Data Protection**
+**1. Information Security and Data Protection**
 <br> **Jan 2017 – Apr 2017** 
 
-- Worked as the team leader to plan, implement and manage IT security for an organization. 
+<br> Worked as the team leader to plan, implement and manage IT security for an organization. 
+<br> Initiated, planned and managed the deliverables for a new project given by an external client, focusing on CIA triad. Used various project management techniques to create/manage project charter, work breakdown structure, responsibilities assignment matrix, resource planning, costs structure and network diagram. 
+Worked on IT/information security for the entire organization and provided critical activities plan, communication plan and quality management plan to the client. 
+This project delivered the roadmap and strategies for achieving Identity security, Threat protection, cyber security and Information security.
 
-- Initiated, planned and managed the deliverables for a new project given by an external client, focusing on CIA triad. Used various project management techniques to create/manage project charter, work breakdown structure, responsibilities assignment matrix, resource planning, costs structure and network diagram. 
-- Worked on IT/information security for the entire organization and provided critical activities plan, communication plan and quality management plan to the client. 
-- This project delivered the roadmap and strategies for achieving Identity security, Threat protection, cyber security and Information security.
+**2. E-commerce analysis & research on SCM strategies**
+<br> **Jan 2017 - April 2017**
+<br> Presented a paper on Supply chain management- Hong Kong style. Analyzed the approach and SCM techniques adopted by Hong Kong’s largest export trading company, Li and Fung limited, to handle changing market dynamics, competitions etc. and maintain their position as a market leader.
 
+**3. B2C E-Commerce Application** 
+<br> **Jan 2012** : **Certificate awarded for best group project- 3 months training in .Net Domain** 
+<br> Developed a simulation of an Online Shopping Website using ASP.NET. Design and implementation of ecommerce web pages.
+
+**4. Online Medical Diagnosis System**
+<br> **Feb 2011** : **Certificate awarded for creative project category**
+<br> Online medical health and awareness system-: System design and website implementation along with database management in SQL.
+
+**5. Network Management and Linux admin**
+<br> **June 2009** : **Nettech team, Jaipur, India -Certification for ‘Networking & Ethical Hacking’**
+<br> Network management project: Website creation, mail server set up & cyber security maintenance for an organization (within LAN). Worked on Linux file systems, admin tasks, file access, users management, user permissions etc
