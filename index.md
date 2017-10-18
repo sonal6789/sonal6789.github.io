@@ -1,4 +1,4 @@
-<img src="https://sonal6789.github.io/images/profilepic.jpeg" width="150" height="150" align= "left"/> 
+<img src="https://sonal6789.github.io/images/profilepic.jpeg" width="150" height="150" align= "centre"/> 
 
 # ABOUT ME
 I'd like to describe myself as a DevOps evangelist, a Cloud enthusiast, a project management fervid & a business ideas generator. I'm a highly motivated and passionate tech-savvy professional, looking for opportunities to learn and grow, and to be part of an organization that helps me fulfil my career ambitions.
@@ -6,8 +6,7 @@ I'd like to describe myself as a DevOps evangelist, a Cloud enthusiast, a projec
 
 # MY BACKGROUND
 A recent graduate from University of Florida with Master's degree in Information systems and operations management (major in Business Intelligence). I have total 3 years of software engineering experience, specialising in software Build and Release management. 
-
-# SKILLS/EXPERIENCE
+<br>
 Project management experience with a contribution in software coding, testing, deployment and configuration management phases. Expert knowledge of DevOps technologies including Source Code Control, Build/Deployment Management, Build automation, MsBuild, Team Build, PowerShell scripting, WIX, TFS, GIT, Visual Studio, Continuous Integration and Continuous Delivery. Handled various projects (Website, Windows, Database, SharePoint and Azure applications) as part of centralised Build Team for Microsoft for 2.5 years.
 
 
@@ -32,3 +31,11 @@ Project management experience with a contribution in software coding, testing, d
 * Experience with Microsoft Azure package deployments. Briefly worked on Iaas, Paas, Saas solutions provided by Microsoft.
 * Contributed to improve build system efficiency through customized build XAML templates and internal Build On-boarding website.
 * Managed the centralized (on-prem) build servers for Microsoft product applications and support projects. Reviewed and validated peers' work, mentored/trained new recruits.
+
+# TECHNICAL SKILLS
+
+* **Scripting/Programming Languages**: C#, Java, PowerShell, SQL, Batch scripting, XAML, XML, HTML, WIX
+* **Tools/Technologies**: TFS, VSTS, Git, Chef, ASP.NET, MVC, MS Build, WIX 3.0, Microsoft Octopus, MS Visual Studio, Sitecore- CMS, NetBeans IDE, MS Office, Agile Methodology- SCRUM, .NET framework 4.5, Microsoft Visio
+* **Operating Systems**: Windows, Linux operating system basics, Windows server administration
+* **Databases**: MS Access, MS SQL Server 2005/2008, SQL server administration, Database setup and automation
+* **Others**: Continuous Integration and Delivery - CI/CD, Build automation, Build processes, TFS branching/merging, Source code management systems, version control systems, Build management tools, TCP/IP, DNS, DHCP, HTTP, IIS, SharePoint 2010, Microsoft Azure deployments, Visual Studio Installers (Windows, Web and Database installers and deployments using Octopus .Net deployment tool), Web applications development, Windows server management and network troubleshooting, Tableau 10.0
