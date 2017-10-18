@@ -39,3 +39,8 @@ Project management experience with a contribution in software coding, testing, d
 * **Operating Systems**: Windows, Linux operating system basics, Windows server administration
 * **Databases**: MS Access, MS SQL Server 2005/2008, SQL server administration, Database setup and automation
 * **Others**: Continuous Integration and Delivery - CI/CD, Build automation, Build processes, TFS branching/merging, Source code management systems, version control systems, Build management tools, TCP/IP, DNS, DHCP, HTTP, IIS, SharePoint 2010, Microsoft Azure deployments, Visual Studio Installers (Windows, Web and Database installers and deployments using Octopus .Net deployment tool), Web applications development, Windows server management and network troubleshooting, Tableau 10.0
+
+# PROJECTS/RESEARCH WORK
+
+<img src="https://sonal6789.github.io/images/projectuf.png" width="650" height="300" align= "centre"/> 
+
