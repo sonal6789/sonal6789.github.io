@@ -1,11 +1,11 @@
 <img src="https://sonal6789.github.io/images/profilepic.jpeg" width="200" height="200" align= "centre"/> 
 
 
-<a href="https://www.linkedin.com/in/sonal-chaudhary/" >
+<a href="https://www.linkedin.com/in/sonal-chaudhary/" target="_blank" >
 <img src="https://sonal6789.github.io/images/social-linkedin.png" width="50" height="50" align="left" />
 </a>
-<a  href="https://www.facebook.com/sonal6789" >
- <img src="https://sonal6789.github.io/images/social-facebook.png" width="50" height="50" align="left" /></a> <a  href="https://twitter.com/sonal_6789"> <img src="https://sonal6789.github.io/images/social-twitter.png" width="50" height="50" align="left"  /> </a> <a  href="https://github.com/sonal6789/">    <img src="https://sonal6789.github.io/images/social-github.png" width="50" height="50" align="left"/> </a>
+<a  href="https://www.facebook.com/sonal6789" target="_blank" >
+ <img src="https://sonal6789.github.io/images/social-facebook.png" width="50" height="50" align="left" /></a> <a  href="https://twitter.com/sonal_6789" target="_blank" > <img src="https://sonal6789.github.io/images/social-twitter.png" width="50" height="50" align="left"  /> </a> <a  href="https://github.com/sonal6789/" target="_blank" >    <img src="https://sonal6789.github.io/images/social-github.png" width="50" height="50" align="left"/> </a>
 
 <br>
 <br>
