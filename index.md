@@ -56,7 +56,6 @@ Project management experience with a contribution in software coding, testing, d
 
 **1. Information Security and Data Protection**
 <br> **Jan 2017 – Apr 2017** 
-
 <br> Worked as the team leader to plan, implement and manage IT security for an organization. 
 <br> Initiated, planned and managed the deliverables for a new project given by an external client, focusing on CIA triad. Used various project management techniques to create/manage project charter, work breakdown structure, responsibilities assignment matrix, resource planning, costs structure and network diagram. 
 Worked on IT/information security for the entire organization and provided critical activities plan, communication plan and quality management plan to the client. 
