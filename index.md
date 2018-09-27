@@ -17,12 +17,15 @@ I'd like to describe myself as a DevOps evangelist, a Cloud enthusiast, a projec
 
 
 # MY BACKGROUND
-A recent graduate from University of Florida with Master's degree in Information systems and operations management (major in Business Intelligence). I have total 3 years of software engineering experience, specialising in software Build and Release management. 
-<br>
-Project management experience with a contribution in software coding, testing, deployment and configuration management phases. Expert knowledge of DevOps technologies including Source Code Control, Build/Deployment Management, Build automation, MsBuild, Team Build, PowerShell scripting, WIX, TFS, GIT, Visual Studio, Continuous Integration and Continuous Delivery. Handled various projects (Website, Windows, Database, SharePoint and Azure applications) as part of centralised Build Team for Microsoft for 2.5 years.
-
+Project management experience with a contribution in software coding, testing, deployment and configuration management phases. Expert knowledge of DevOps and Cloud technologies including Source Code Control, Build/Deployment Management, Build automation, MsBuild, Team Build, PowerShell scripting, WIX, TFS, GIT, Visual Studio, Continuous Integration and Continuous Delivery. Handled various projects (Website, Windows, Database, SharePoint and Azure applications) as part of centralised Build Team for Microsoft. Presently working as part of Azure CXP team on Iaas/Paas/Saas solutions and Azure Ibiza portal issues and incident management for various external and internal Microsoft Azure customers.
 
 # WORK EXPERIENCE
+
+**Dec 2017- Present
+<br> Senior Engineer at Microsoft | MINDTREE  https://www.mindtree.com**
+* Presently working as Azure Platform Support Engineer at Microsoft. Working closely with various Cloud engineering teams at Microsoft to manage Iaas/Paas/Saas services for multiple internal and external clients and to help in delivering highly available/scalable enterprise solutions. Enhancing customers’ experience by providing platform support for all cloud services, resources and subscriptions management. Responsibilities – Admin tasks, incident management, Live-Site issues, Azure outages management, Platform issues related to Storage, Compute and Networking resources, Debugging, Troubleshooting Azure ARM portal resources, documentation, Azure production tools management, scripting, Azure PowerShell, bugs tracking etc.
+* Monitoring and management of the ticketing system for Azure platform issues, bugs and support requests for top Azure customers. Enhancing Azure customer experience by providing on-call support, troubleshooting expertise and handling high severity ongoing issues within defined SLAs.
+
 
 **DEC 2014 - JUNE 2015
 <br> BUILD AND RELEASE ENGINEER - SAPIENT (Gurgaon, India)**
@@ -50,7 +53,8 @@ Project management experience with a contribution in software coding, testing, d
 * **Tools/Technologies**: TFS, VSTS, Git, Chef, ASP.NET, MVC, MS Build, WIX 3.0, Microsoft Octopus, MS Visual Studio, Sitecore- CMS, NetBeans IDE, MS Office, Agile Methodology- SCRUM, .NET framework 4.5, Microsoft Visio
 * **Operating Systems**: Windows, Linux operating system basics, Windows server administration
 * **Databases**: MS Access, MS SQL Server 2005/2008, SQL server administration, Database setup and automation
-* **Others**: Continuous Integration and Delivery - CI/CD, Build automation, Build processes, TFS branching/merging, Source code management systems, version control systems, Build management tools, TCP/IP, DNS, DHCP, HTTP, IIS, SharePoint 2010, Microsoft Azure deployments, Visual Studio Installers (Windows, Web and Database installers and deployments using Octopus .Net deployment tool), Web applications development, Windows server management and network troubleshooting, Tableau 10.0
+* **Microsoft Azure/ cloud technologies**:Iaas/Paas/Saas solutions, Azure Powershell/CLI, Microsoft ICM incident management, Ibiza Azure Portal, Kusto, Jarvis, Azure CXP experience, XLS/XDS tools, Orb/Fcshell/Fcclient, Mssolve/Azure support center experience, Azure Compute/Storage/Networking resource management, ARM resources, Cluster/Fabric management and Azure subscription management.
+* **Others**: Continuous Integration and Delivery - CI/CD, Build automation, Build processes, TFS branching/merging, Source code management systems, version control systems, Build management tools, TCP/IP, DNS, DHCP, HTTP, IIS, SharePoint 2010, Microsoft Azure deployments, Visual Studio Installers (Windows, Web and Database installers and deployments using Octopus .Net deployment tool), Web applications development, Windows server management, Tableau 10.0
 
 # PROJECTS & RESEARCH WORK
 
